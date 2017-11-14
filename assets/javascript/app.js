@@ -1,4 +1,4 @@
-var arrGames = ["Dark Souls", "Ark Survival Evolved", "The Witcher 3", "Dragons Dogma", "Smite", "Elite Dangerous", "GTA V", "Super Mario 64", "Super Smash Brothers 64", "Rainbow Six Seige", "Call of Duty 2", "Call of Duty Modern Warfare", "Payday 2", "Sniper Elite 3", "Sonic Adventures 2", "Myst Exile"];
+var arrGames = ["Dark Souls", "Ark Survival Evolved", "The Witcher 3", "Dragons Dogma", "Smite", "Elite Dangerous", "GTA V", "Super Mario 64", "Super Smash Brothers 64", "Rainbow Six Seige", "Payday 2", "Sniper Elite 3", "Sonic Adventures 2", "Myst"];
 
 function renderButtons() {
 	$("#game-buttons").empty();
