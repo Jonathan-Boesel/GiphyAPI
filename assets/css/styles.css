@@ -1,0 +1,39 @@
+span {
+	float: left;
+	margin: 5px;
+}
+
+button {
+	background-color: teal;
+	border: none;
+	border-radius: 5px;
+	margin: 2px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+#add-game {
+	background-color: teal;
+	border: none;
+	border-radius: 5px;
+	margin: 5px 5px 5px 0px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+#game-input {
+	border-radius: 5px;
+	border: none;
+	background-color: #A992C1;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	background-color: #D9D56B;
+	border-radius: 5px;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
